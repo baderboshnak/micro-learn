@@ -20,4 +20,4 @@ A full-stack educational platform offering short videos and quizzes to help stud
 - Handled MongoDB models  APIs
 
 ## 🔗 Links
-- [Live Demo](https://micro-learn-67et.vercel.app/)
+- [the website](https://micro-learn-67et.vercel.app/)
